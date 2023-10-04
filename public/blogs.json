@@ -1,0 +1,53 @@
+[
+    {
+        "Id": 12345,
+        "Cover": "https://i.ibb.co/Y8878g9/development-with-abstract-background.jpg",
+        "Title": "JavaScript Fundamentals: Mastering the Basics for Web Development"
+        ,
+        "Author": "Samantha Smith",
+        "Author_img": "https://i.ibb.co/XSVbcwD/toa-heftiba-O3ymv-T7-Wf9-U-unsplash.jpg",
+        "Posted_Date": "2023-09-15",
+        "Reading_Time": 7,
+        "Hashtags": ["#Adventure", "#Mystery", "#Novel"]
+    },
+    {
+        "Id": 67890,
+        "Cover": "https://i.ibb.co/1m2VSNZ/337619-PAINOO-964-1.jpg",
+        "Title": "Modern JavaScript Frameworks: Building Dynamic Web Apps",
+        "Author": "David Johnson",
+        "Author_img": "https://i.ibb.co/CnBrZQs/ali-morshedlou-WMD64t-Mfc4k-unsplash.jpg",
+        "Posted_Date": "2023-09-20",
+        "Reading_Time": 10,
+        "Hashtags": ["#Exploration", "#History", "#Fiction"]
+    },
+    {
+        "Id": 24680,
+        "Cover": "https://i.ibb.co/09ty8C0/330935-P9-V7-PW-570-1.jpg",
+        "Title": "Asynchronous JavaScript: Handling Promises and Callbacks",
+        "Author": "Emily Turner",
+        "Author_img": "https://i.ibb.co/DtS7shNaiony-haust-3-TLl-97-HNJo-unsplash.jpg",
+        "Posted_Date": "2023-09-10",
+        "Reading_Time": 15,
+        "Hashtags": ["#ScienceFiction", "#Space", "#Adventure"]
+    },
+    {
+        "Id": 13579,
+        "Cover": "https://i.ibb.co/8bQC0QW/christopher-campbell-Cp-LUHPRp-WM-unsplash.jpg",
+        "Title": "JavaScript for Beginners: A Step-by-Step Guide to Programming",
+        "Author": "Michael Anderson",
+        "Author_img": "https://i.ibb.co/cbq7b8C10bits-studio-d-ZBd-JJW4f-Gc-unsplash.jpg",
+        "Posted_Date": "2023-09-05",
+        "Reading_Time": 12,
+        "Hashtags": ["#Cooking", "#Culinary", "#Recipes"]
+    },
+    {
+        "Id": 54321,
+        "Cover": "https://i.ibb.co/68cq6nG/stormseeker-r-X12-B5u-X7-QM-unsplash.jpg",
+        "Title": "JavaScript Best Practices: Writing Clean and Efficient Code",
+        "Author": "Laura Miller",
+        "Author_img": "https://i.ibb.co/mFSRZPV/young-woman-with-round-glasses-yellow-sweater.jpg",
+        "Posted_Date": "2023-09-25",
+        "Reading_Time": 13,
+        "Hashtags": ["#Fiction", "#Romance", "#Dreams"]
+    }
+]
